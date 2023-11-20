@@ -1,4 +1,4 @@
-#Adivina el numero
+#Adivina el número
 print ("¿TE SENTIS CON SUERTE HOY? ¡ADIVINA EN QUE NUMERO ESTOY PENSANDO!")
 import random
 jugar = True 
